@@ -26,11 +26,13 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## TypeORM
 
 - User -> Profile [OneToOne]
 - Author [OneToMany] -> Book [ManyToOne]
 - Student [ManyToMany] -> Course [ManyToMany]
+
+## Installation
 
 ```bash
 $ npm install
